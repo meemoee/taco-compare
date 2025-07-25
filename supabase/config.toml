@@ -1,0 +1,4 @@
+[project]
+id = "npascgdcaupgbodlwghh"   # ← your project ref
+
+# Nothing else is required for plain Edge Functions.
