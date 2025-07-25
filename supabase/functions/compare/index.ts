@@ -1,4 +1,4 @@
-// compare.ts – Supabase Edge Function
+// compare.ts – Supabase Edge Function THIS IS A TEST
 // Finds Taco Bell stores via Overpass (live if cache empty), caches them in
 // tb_locations, fetches each store’s menu (15‑min menu_cache), and returns the
 // menu items with the widest price spreads across nearby stores.
